@@ -1,0 +1,3 @@
+PyQt5==5.15.9
+Flask==2.3.3
+python-uinput==0.11.2
