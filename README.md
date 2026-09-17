@@ -1,10 +1,10 @@
 > **Only for Linux**
 
 ```bash
-# Установка зависимостей
+# Installing dependencies
 pip install -r requirements.txt
 
-# Запуск приложения
+# Launching the application
 python3 main.py
 
 
